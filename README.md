@@ -1,6 +1,10 @@
 # jobspot_app
 
-A new Flutter project.
+A "iseng" flutter project to start a live coding on youtube.
+Based on this UI:
+https://www.figma.com/file/VRKIhGkQssm6pgFqFEvXPi/Job-Finder-Ui-App-Kit-(Community)?node-id=1%3A48
+
+Youtube: https://youtu.be/LISgwIdIARc
 
 ## Getting Started
 
